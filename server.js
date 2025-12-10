@@ -1,6 +1,7 @@
 // =======================
 // server.js (AUTO IP DETECTION)
 // =======================
+// 10 video rendered update
 
 const express = require("express");
 const https = require("https");
